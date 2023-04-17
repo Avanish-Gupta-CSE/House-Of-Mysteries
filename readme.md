@@ -13,3 +13,5 @@ For this project, I have decided to develop a scavenger hunt-type game where the
 
 - Comment and refactor
 - Add locations, quests, items..
+
+## [Link to the game](https://avanish-gupta-hous-of-mysteries-game.netlify.app/)
